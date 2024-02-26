@@ -1,0 +1,20 @@
+/* App.css */
+.App{
+  background-color:#f9fafc;
+}
+.content {
+  flex-grow: 1; /* Allow the content section to grow and fill available space */
+}
+
+.cards-section {
+  /* Add styles for the card section, like margin, padding, etc. */
+  margin-top: 20px;
+}
+
+.preview-section {
+  /* Add styles for the preview section, like margin, padding, etc. */
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+/* Additional styling for specific components can be added here */
